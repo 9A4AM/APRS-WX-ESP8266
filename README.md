@@ -5,4 +5,4 @@ esp8266 with BME280
 - upload weather data on aprs servers
 - local web page for weather informations
 
-Warning: This code is under construction!! Not full working! Missing BME280 code.
+![alt text](https://github.com/[9A4AM]/[APRS-WX-ESP8266]/blob/[branch]/ESP8266-BME280-Arduino-IDE.png?raw=true)
